@@ -13,3 +13,5 @@ INSTALLATION
 USAGE
 
 Please see the Manual on the Wiki page
+
+https://github.com/afxdub/Nexpose-API/wiki/Manual
